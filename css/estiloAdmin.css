@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.perfil{
+  width: 100px;
+}
+.borde{
+  border-bottom:2px solid;
+}
+.ng-invalid{
+  border: #990000 1px solid;
+}
+.container {
+    width: 100%;
+}
+
+.white-text {
+    color: #424242 !important;
+}
+
+.flow-text {
+    line-height: 1;
+}
+.flow-text {
+    font-size: 1rem;
+}

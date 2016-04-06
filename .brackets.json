@@ -1,0 +1,23 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/MAMP/htdocs/My Operative System/css/CSS · Bootstrap_files/track.js",
+        "C:/MAMP/htdocs/My Operative System/js/dinamico.js",
+        "C:/MAMP/htdocs/My Operative System/css/CSS · Bootstrap_files/ie10-viewport-bug-workaround.js",
+        "C:/MAMP/htdocs/My Operative System/css/CSS · Bootstrap_files/ie-emulation-modes-warning.js",
+        "C:/MAMP/htdocs/My Operative System/css/CSS · Bootstrap_files/docs.min.js",
+        "C:/MAMP/htdocs/My Operative System/css/CSS · Bootstrap_files/bootstrap.min.js",
+        "C:/MAMP/htdocs/My Operative System/css/CSS · Bootstrap_files/analytics.js",
+        "C:/MAMP/htdocs/My Operative System/css/Components · Bootstrap_files/Yg0yO6FQ-hp85_xS3eNGziXdrvZbQ8R0BRrl4uQpMgw.js",
+        "C:/MAMP/htdocs/My Operative System/css/Components · Bootstrap_files/www-embed-player.js",
+        "C:/MAMP/htdocs/mos/css/CSS · Bootstrap_files/track.js",
+        "C:/MAMP/htdocs/mos/css/CSS · Bootstrap_files/ie10-viewport-bug-workaround.js",
+        "C:/MAMP/htdocs/mos/materialize/js/materialize.min.js",
+        "C:/MAMP/htdocs/mos/materialize/js/materialize.js",
+        "C:/MAMP/htdocs/mos/css/CSS · Bootstrap_files/ie-emulation-modes-warning.js",
+        "C:/MAMP/htdocs/mos/css/CSS · Bootstrap_files/docs.min.js",
+        "C:/MAMP/htdocs/mos/css/CSS · Bootstrap_files/bootstrap.min.js",
+        "C:/MAMP/htdocs/mos/css/CSS · Bootstrap_files/analytics.js",
+        "C:/MAMP/htdocs/mos/css/Components · Bootstrap_files/Yg0yO6FQ-hp85_xS3eNGziXdrvZbQ8R0BRrl4uQpMgw.js",
+        "C:/MAMP/htdocs/mos/css/Components · Bootstrap_files/www-embed-player.js"
+    ]
+}

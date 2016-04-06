@@ -1,0 +1,84 @@
+
+.panel{
+	background-color: #4F77EA;
+}
+
+.l-blancas{
+	color: #fff;
+    text-align: center;
+    font-size: 24pt;
+}
+
+.tam-l{
+	font-size: 51px;
+}
+
+.text-center{
+	text-align: center;
+}
+
+h3,h4{
+    font-size: 18px;
+}
+
+
+body main > section {
+  padding: 52px 22px;
+}
+body main .icon-title {
+  font-size: 0;
+}
+body main .icon-title fa, body main .icon-title h3, body main .icon-title div {
+  display: inline-block;
+  vertical-align: middle;
+}
+body main .icon-title h3 {
+  text-transform: uppercase;
+  margin-left: 12px;
+  font-weight: bold;
+}
+body main .info-content {
+  padding: 0 32px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body main .info-content p {
+  font-size: 14px;
+  text-align: justify;
+  color: inherit;
+}
+body main .info-content ul.list-icons {
+  list-style: none;
+  margin: 0;
+}
+body main .info-content ul.list-icons li {
+  margin: 30px 0;
+}
+body main .info-content ul.list-icons li:first-child {
+  padding-top: 10px;
+}
+body main .info-content ul.list-icons li:last-child {
+  padding-bottom: 10px;
+}
+body main .info-content ul li div, body main .info-content ul li p {
+  display: inline-block;
+  vertical-align: middle;
+}
+body main .info-content ul li p {
+  margin: 0;
+  margin-left: 12px;
+}
+body main #left-side {
+  background: #3f5771;
+}
+body main #left-side .name, body main #left-side .job-titles {
+  color: white;
+  text-align: center;
+}
+body main #left-side .name {
+  text-transform: uppercase;
+}
+body main #left-side .job-titles {
+  margin-bottom: 60px;
+}
+
