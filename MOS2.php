@@ -321,7 +321,7 @@
                          ?>
                   </ul>
                 </aside>
-            <div class="text" id="text" style="width: 100%; height: 100%; background-color: white;position: absolute;top: 7%;left: 20%" contenteditable="true">
+            <div class="text" id="text" style="width: 100%; height: 100%; background-color: white;position: absolute; top: 10%;left: 20%; font-family: Arial; font-size: 14px" contenteditable="true">
       	         <!--textarea style="font-family: Helvetica Neue; font-size: 30px; line-height: 33px; position: absolute; top: 15%; left: 20%; border: medium none;" class="text" name="text" id="text" placeholder="Text." contenteditable="true"></textarea-->
             </div>
       	     

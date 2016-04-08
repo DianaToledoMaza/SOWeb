@@ -5,11 +5,16 @@
     $action= $_POST['action'];
     $file= $_POST['file'];
     $contenido= $_POST['txtarea'];
+    $fofa= $_POST['font'];
+    $fosi= $_POST['size'];
     $path= $user."/".$file;
 
     switch($action){
         case "crear":
-            fopen($path,"w");
+            $file= fopen($path,"w");
+            $font= "type here"."!*#¡".$fofa.",".$fosi;
+            fwrite($file, $font);
+            fclose($file);
             break;
             
         case "eliminar":
@@ -23,6 +28,7 @@
             break;
         case "guardar":
             $file=fopen($path, "w");
+            $contenido= $contenido."!*#¡".$fofa.",".$fosi;
             fwrite($file, $contenido);
             fclose($file);
             break;
